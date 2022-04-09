@@ -1,4 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋 I'm @codeboyzhou</h1>
+<h3 align="center">Open Source enthusiast && full stack web developer from China / Chengdu.</h3>
+
+- 🔭&nbsp;I’m currently working on [Spring Boot XSS Defender](https://github.com/codeboyzhou/spring-boot-xss-defender)
+
+- 📝&nbsp;I regulary write articles on [https://juejin.cn/codeboyzhouzhou](https://juejin.cn/user/3940295891496087/posts)
+
+- 💬&nbsp;Ask me about **Java / JavaScript / CSS / MySQL**
+
+- ⚡&nbsp;Fun fact **I like cycling, and I have traveled by bike to most cities in China, almost thousands of kilometers.**
 
 <!--
 **codeboyzhou/codeboyzhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
