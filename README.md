@@ -5,7 +5,7 @@
 
 - 📝&nbsp;I regulary write articles on [https://juejin.cn/codeboyzhouzhou](https://juejin.cn/user/3940295891496087/posts)
 
-- 💬&nbsp;Ask me about **Java / JavaScript / CSS / MySQL**
+- 💬&nbsp;Ask me about **Java / JavaScript / CSS / MySQL / SpringBoot**
 
 - ⚡&nbsp;Fun fact **I like cycling, and I have traveled by bike to most cities in China, almost thousands of kilometers.**
 
@@ -13,8 +13,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=codeboyzhou&show_icons=true&count_private=true" alt="codeboyzhou" width="50%"/>
 </p>
 
+<p align="center">
+  <img align="center" src="https://komarev.com/ghpvc/?username=codeboyzhou" alt="codeboyzhou"/>
+</p>
+
 <!--
-**codeboyzhou/codeboyzhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -26,4 +29,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
