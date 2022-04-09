@@ -9,6 +9,10 @@
 
 - ⚡&nbsp;Fun fact **I like cycling, and I have traveled by bike to most cities in China, almost thousands of kilometers.**
 
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codeboyzhou&show_icons=true&count_private=true" alt="codeboyzhou" width="50%"/>
+</p>
+
 <!--
 **codeboyzhou/codeboyzhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
