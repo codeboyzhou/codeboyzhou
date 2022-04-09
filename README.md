@@ -9,10 +9,17 @@
 
 - ⚡&nbsp;Fun fact **I like cycling, and I have traveled by bike to most cities in China, almost thousands of kilometers.**
 
+<!-- most used languages -->
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeboyzhou&layout=compact&hide=html" alt="codeboyzhou"/>
+</p>
+
+<!-- github stats -->
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=codeboyzhou&show_icons=true&count_private=true" alt="codeboyzhou" width="50%"/>
 </p>
 
+<!-- profile views -->
 <p align="center">
   <img align="center" src="https://komarev.com/ghpvc/?username=codeboyzhou" alt="codeboyzhou"/>
 </p>
