@@ -3,7 +3,7 @@
 
 - 🔭&nbsp;I’m currently working on [Spring Boot XSS Defender](https://github.com/codeboyzhou/spring-boot-xss-defender)
 
-- 📝&nbsp;I regulary write articles on [https://juejin.cn/codeboyzhouzhou](https://juejin.cn/user/3940295891496087/posts)
+- 📝&nbsp;I regulary write articles on [https://juejin.cn/codeboyzhou](https://juejin.cn/user/3940295891496087/posts)
 
 - 💬&nbsp;Ask me about **Java / JavaScript / CSS / MySQL / SpringBoot**
 
