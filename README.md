@@ -5,7 +5,7 @@
 
 - 📝&nbsp;I regulary write articles on [https://juejin.cn/codeboyzhou](https://juejin.cn/user/3940295891496087/posts)
 
-- 💬&nbsp;Ask me about **Java / TypeScript / CSS / MySQL / SpringBoot**
+- 💬&nbsp;Ask me about **Java / TypeScript / JavaScript / CSS / MySQL / SpringBoot**
 
 - ⚡&nbsp;Fun fact **I like cycling, and I have traveled by bike to most cities in China, almost thousands of kilometers.**
 
