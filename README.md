@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋 I'm @codeboyzhou</h1>
 <h3 align="center">Open Source enthusiast && full stack web developer from China / Chengdu.</h3>
 
-- 🔭&nbsp;I’m currently working on [Spring Boot XSS Defender](https://github.com/codeboyzhou/spring-boot-xss-defender)
+- 🔭&nbsp;I’m currently working on [HelloOpenAI](https://github.com/HelloOpenAI)
 
-- 📝&nbsp;I regulary write articles or code on [https://github.com/codeboyzhou](https://github.com/codeboyzhou)
+- 📝&nbsp;I regulary write code on [https://github.com/codeboyzhou](https://github.com/codeboyzhou)
 
 - 💬&nbsp;Ask me about **Java / TypeScript / JavaScript / CSS / MySQL / SpringBoot**
 
