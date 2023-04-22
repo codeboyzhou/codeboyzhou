@@ -1,22 +1,24 @@
 <h1 align="center">Hi there 👋 I'm @codeboyzhou</h1>
-<h3 align="center">Open Source enthusiast && full stack web developer from China / Chengdu.</h3>
+<h3 align="center">Open Source enthusiast && full stack web developer from China.</h3>
 
 - 🔭&nbsp;I’m currently working on [HelloOpenAI](https://github.com/HelloOpenAI)
 
 - 📝&nbsp;I regulary write code on [https://github.com/codeboyzhou](https://github.com/codeboyzhou)
 
-- 💬&nbsp;Ask me about **Java / TypeScript / JavaScript / CSS / MySQL / SpringBoot**
+- 💬&nbsp;Ask me about **Java && JavaScript && CSS && MySQL && SpringBoot**
 
-- ⚡&nbsp;Fun fact **I like cycling, and I have traveled by bike to most cities in China, almost thousands of kilometers.**
+- ⚡&nbsp;Fun fact **Cycling 🚴🏻 Climbing Snow Mountains 🏔 Skiing 🏂🏻 Writing 📖 Programming 👨🏻‍💻**
 
 <!-- most used languages -->
+<!--
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeboyzhou&layout=compact&hide=html" alt="codeboyzhou"/>
 </p>
+-->
 
 <!-- github stats -->
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codeboyzhou&show_icons=true&count_private=true" alt="codeboyzhou" width="50%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codeboyzhou&show_icons=true&count_private=true" alt="codeboyzhou" width="100%"/>
 </p>
 
 <!-- profile views -->
