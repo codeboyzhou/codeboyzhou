@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm @codeboyzhou</h1>
 <h3 align="center">Open Source enthusiast && full stack web developer from China.</h3>
 
-- 🔭&nbsp;I’m currently working on [HelloOpenAI](https://github.com/HelloOpenAI)
+- 🔭&nbsp;I’m currently working on [awesome-java-web](https://github.com/awesome-java-web)
 
 - 📝&nbsp;I regulary write code on [https://github.com/codeboyzhou](https://github.com/codeboyzhou)
 
