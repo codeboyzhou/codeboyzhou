@@ -1,29 +1,28 @@
 <h1 align="center">Hi there 👋 I'm @codeboyzhou</h1>
-<h3 align="center">Open Source enthusiast && full stack web developer from China.</h3>
+<h3 align="center">Open Source enthusiast && full stack web developer</h3>
 
-- 🔭&nbsp;I’m currently working on [awesome-java-web](https://github.com/awesome-java-web)
+- 🔭&nbsp;I’m currently working on [InnoBuds](https://github.com/innobuds) and [MCP](https://github.com/modelcontextprotocol)
 
 - 📝&nbsp;I regulary write code on [https://github.com/codeboyzhou](https://github.com/codeboyzhou)
 
-- 💬&nbsp;Ask me about **Java && JavaScript && CSS && MySQL && SpringBoot**
-
 - ⚡&nbsp;Fun fact **Cycling 🚴🏻 Climbing Snow Mountains 🏔 Skiing 🏂🏻 Writing 📖 Programming 👨🏻‍💻**
 
-<!-- most used languages -->
-<!--
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeboyzhou&layout=compact&hide=html" alt="codeboyzhou"/>
+<!-- top langs -->
+<h3 align="center">My Most Used Languages</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeboyzhou&langs_count=10&theme=tokyonight&layout=compact" alt="codeboyzhou :: Most Used Languages"/>
 </p>
--->
 
 <!-- github stats -->
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codeboyzhou&show_icons=true&count_private=true" alt="codeboyzhou" width="100%"/>
+<h3 align="center">GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codeboyzhou&show_icons=true&theme=synthwave" alt="codeboyzhou :: Profile Stats"/>
 </p>
 
-<!-- profile views -->
+<!-- visitors -->
+<h3 align="center">Visitors</h3>
 <p align="center">
-  <img align="center" src="https://komarev.com/ghpvc/?username=codeboyzhou" alt="codeboyzhou"/>
+  <img src="https://profile-counter.glitch.me/{codeboyzhou}/count.svg" alt="codeboyzhou :: Visitors"/>
 </p>
 
 <!--
