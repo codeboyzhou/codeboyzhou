@@ -10,7 +10,7 @@
 <!-- top langs -->
 <h3 align="center">My Most Used Languages</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeboyzhou&langs_count=10&theme=tokyonight&layout=compact" alt="codeboyzhou :: Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeboyzhou&langs_count=10&theme=tokyonight" alt="codeboyzhou :: Most Used Languages"/>
 </p>
 
 <!-- github stats -->
