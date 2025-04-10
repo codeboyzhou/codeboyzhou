@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm @codeboyzhou</h1>
 <h3 align="center">Open Source enthusiast && full stack web developer</h3>
 
-- 🔭&nbsp;I’m currently working on [InnoBuds](https://github.com/innobuds) and [MCP](https://github.com/modelcontextprotocol)
+- 🔭&nbsp;I’m currently working on [MCP (Model Context Protocol)](https://github.com/modelcontextprotocol)
 
 - 📝&nbsp;I regulary write code on [https://github.com/codeboyzhou](https://github.com/codeboyzhou)
 
