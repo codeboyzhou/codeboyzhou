@@ -8,15 +8,15 @@
 - ⚡&nbsp;Fun fact **Cycling 🚴🏻 Climbing Snow Mountains 🏔 Skiing 🏂🏻 Writing 📖 Programming 👨🏻‍💻**
 
 <!-- top langs -->
-<h3 align="center">My Most Used Languages</h3>
+<h3 align="center">Languages Used</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeboyzhou&langs_count=10&theme=tokyonight" alt="codeboyzhou :: Most Used Languages"/>
+  <img src="https://raw.githubusercontent.com/codeboyzhou/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="codeboyzhou :: Languages Used"/>
 </p>
 
 <!-- github stats -->
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codeboyzhou&show_icons=true&theme=synthwave" alt="codeboyzhou :: Profile Stats"/>
+  <img src="https://raw.githubusercontent.com/codeboyzhou/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="codeboyzhou :: Profile Stats"/>
 </p>
 
 <!-- visitors -->
