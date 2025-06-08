@@ -11,12 +11,14 @@
 <h3 align="center">Languages Used</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/codeboyzhou/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="codeboyzhou :: Languages Used"/>
+  <img src="https://raw.githubusercontent.com/codeboyzhou/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="codeboyzhou :: Languages Used"/>
 </p>
 
 <!-- github stats -->
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/codeboyzhou/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="codeboyzhou :: Profile Stats"/>
+  <img src="https://raw.githubusercontent.com/codeboyzhou/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="codeboyzhou :: Profile Stats"/>
 </p>
 
 <!-- visitors -->
