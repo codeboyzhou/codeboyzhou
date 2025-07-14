@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, welcome to my page 👋 I'm @codeboyzhou</h1>
 
-### I'm a software engineer and open-source enthusiast, extremely interested in computer science and coding.
+### I'm a software engineer and open-source enthusiast, extremely interested in computer science.
 
 🔭 I'm contributing to [mcp-java-sdk](https://github.com/modelcontextprotocol/java-sdk) | [spring-ai](https://github.com/spring-projects/spring-ai) | [fast-agent](https://github.com/evalstate/fast-agent) projects in 2025.
 
