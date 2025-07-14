@@ -1,31 +1,19 @@
-<h1 align="center">Hi there 👋 I'm @codeboyzhou</h1>
-<h3 align="center">Open Source enthusiast && full stack web developer</h3>
+<h1 align="center">Hi there, welcome to my page 👋 I'm @codeboyzhou</h1>
 
-- 🔭&nbsp;I’m currently working on [MCP (Model Context Protocol)](https://github.com/modelcontextprotocol)
+### I'm a software engineer and open-source enthusiast, extremely interested in computer science and coding.
 
-- 📝&nbsp;I regulary write code on [https://github.com/codeboyzhou](https://github.com/codeboyzhou)
+🔭 I'm contributing to [mcp-java-sdk](https://github.com/modelcontextprotocol/java-sdk) | [spring-ai](https://github.com/spring-projects/spring-ai) | [fast-agent](https://github.com/evalstate/fast-agent) projects in 2025.
 
-- ⚡&nbsp;Fun fact **Cycling 🚴🏻 Climbing Snow Mountains 🏔 Skiing 🏂🏻 Writing 📖 Programming 👨🏻‍💻**
+🌱 I'm currently learning about [MCP(Model Context Protocol)](https://github.com/modelcontextprotocol) | [AI Agent](https://www.anthropic.com/engineering/building-effective-agents) knowledge.
 
-<!-- top langs -->
-<h3 align="center">Languages Used</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/codeboyzhou/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="codeboyzhou :: Languages Used"/>
-  <img src="https://raw.githubusercontent.com/codeboyzhou/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="codeboyzhou :: Languages Used"/>
-</p>
+💻 I'm currently working on [mcp-declarative-java-sdk](https://github.com/codeboyzhou/mcp-declarative-java-sdk) | [mcp-java-sdk-examples](https://github.com/codeboyzhou/mcp-java-sdk-examples) projects.
 
-<!-- github stats -->
-<h3 align="center">GitHub Stats</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/codeboyzhou/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="codeboyzhou :: Profile Stats"/>
-  <img src="https://raw.githubusercontent.com/codeboyzhou/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="codeboyzhou :: Profile Stats"/>
-</p>
-
-<!-- visitors -->
-<h3 align="center">Visitors</h3>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/{codeboyzhou}/count.svg" alt="codeboyzhou :: Visitors"/>
-</p>
+<div style="display: flex; justify-content: space-between;">
+  <img style="max-width: 48%; height: auto;" src="https://raw.githubusercontent.com/codeboyzhou/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="codeboyzhou :: Languages Used"/>
+  <img style="max-width: 48%; height: auto;" src="https://raw.githubusercontent.com/codeboyzhou/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="codeboyzhou :: Languages Used"/>
+  <img style="max-width: 48%; height: auto;" src="https://raw.githubusercontent.com/codeboyzhou/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="codeboyzhou :: GitHub Stats"/>
+  <img style="max-width: 48%; height: auto;" src="https://raw.githubusercontent.com/codeboyzhou/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="codeboyzhou :: GitHub Stats"/>
+</div>
 
 <!--
 
