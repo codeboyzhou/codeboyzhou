@@ -10,9 +10,7 @@
 
 <div style="display: flex; justify-content: space-between;">
   <img style="max-width: 48%; height: auto;" src="https://raw.githubusercontent.com/codeboyzhou/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="codeboyzhou :: Languages Used"/>
-  <img style="max-width: 48%; height: auto;" src="https://raw.githubusercontent.com/codeboyzhou/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="codeboyzhou :: Languages Used"/>
   <img style="max-width: 48%; height: auto;" src="https://raw.githubusercontent.com/codeboyzhou/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="codeboyzhou :: GitHub Stats"/>
-  <img style="max-width: 48%; height: auto;" src="https://raw.githubusercontent.com/codeboyzhou/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="codeboyzhou :: GitHub Stats"/>
 </div>
 
 <!--
