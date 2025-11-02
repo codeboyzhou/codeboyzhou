@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, welcome to my page 👋 I'm @codeboyzhou</h1>
+<h1>Hi there, welcome to my page 👋 I'm @codeboyzhou</h1>
 
 ### I'm a software engineer and open-source enthusiast, extremely interested in computer science.
 
@@ -8,10 +8,10 @@
 
 💻 I'm currently working on [mcp-declarative-java-sdk](https://github.com/codeboyzhou/mcp-declarative-java-sdk) | [mcp-java-sdk-examples](https://github.com/codeboyzhou/mcp-java-sdk-examples) projects.
 
-<div style="display: flex; justify-content: space-between;">
-  <img style="max-width: 48%; height: auto;" src="https://raw.githubusercontent.com/codeboyzhou/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="codeboyzhou :: Languages Used"/>
-  <img style="max-width: 48%; height: auto;" src="https://raw.githubusercontent.com/codeboyzhou/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="codeboyzhou :: GitHub Stats"/>
-</div>
+<a href="https://github.com/codeboyzhou/github-stats">
+  <img src="https://github.com/codeboyzhou/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only"/>
+  <img src="https://github.com/codeboyzhou/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only"/>
+</a>
 
 <!--
 
